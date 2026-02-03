@@ -1,2 +1,2 @@
 # daily-coding
-Auto-generated contributions
+Practice
